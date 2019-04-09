@@ -1,11 +1,9 @@
-package topica.edu.ChatRoom;
+package topica.edu.BTVN.BTVN_Bai13_Hoangnv2.ChatRoom;
 
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.Socket;
 import java.util.Scanner;
-
-import static topica.edu.ChatRoom.Server.listSK;
 
 class WriteServer extends Thread{
     @Override
@@ -13,8 +11,8 @@ class WriteServer extends Thread{
 
         while (true)
         {
-            synchronized (listSK) {
-                for (Socket item : listSK) {
+            synchronized (Server.listSK) {
+                for (Socket item : Server.listSK) {
                     DataOutputStream dos = null;
                     try {
                         dos = new DataOutputStream(item.getOutputStream());

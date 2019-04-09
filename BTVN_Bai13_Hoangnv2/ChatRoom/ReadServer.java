@@ -1,11 +1,11 @@
-package topica.edu.ChatRoom;
+package topica.edu.BTVN.BTVN_Bai13_Hoangnv2.ChatRoom;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.Socket;
 
-import static topica.edu.ChatRoom.Server.listSK;
+
 
 class ReadServer extends Thread{
     Socket server;
@@ -16,7 +16,7 @@ class ReadServer extends Thread{
     public void run() {
         try {
             while(true){
-                synchronized (listSK) {
+                synchronized (Server.listSK) {
                     DataInputStream dis = new DataInputStream(server.getInputStream());
                     for (Socket item : Server.listSK) {
                         DataOutputStream dos = new DataOutputStream(item.getOutputStream());

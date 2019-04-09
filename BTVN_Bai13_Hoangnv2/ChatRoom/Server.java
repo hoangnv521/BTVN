@@ -1,4 +1,4 @@
-package topica.edu.ChatRoom;
+package topica.edu.BTVN.BTVN_Bai13_Hoangnv2.ChatRoom;
 
 import java.io.IOException;
 import java.net.ServerSocket;
@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 public class Server {
     private int port;
-    public static ArrayList<Socket> listSK =new ArrayList<>();
+    public static ArrayList<Socket> listSK = new ArrayList<>();
     public Server(int port){
         this.port=port;
     }
