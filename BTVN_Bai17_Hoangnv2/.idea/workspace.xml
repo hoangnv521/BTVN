@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0719e1d9-7a3f-43ac-8f9c-33f05f8a13c9" name="Default Changelist" comment="" />
+    <list default="true" id="0719e1d9-7a3f-43ac-8f9c-33f05f8a13c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTVN_Bai17_Hoangnv2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN_Bai17_Hoangnv2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bai17/ORM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bai17/ORM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bai17/config/JPAConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bai17/config/JPAConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bai17/entity/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bai17/entity/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bai17/entity/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bai17/entity/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bai17/entity/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bai17/entity/Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bai17/repository/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bai17/repository/CategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bai17/repository/ItemRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bai17/repository/ItemRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bai17/repository/TypeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bai17/repository/TypeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bai17/service/ICategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bai17/service/ICategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bai17/service/IItemService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bai17/service/IItemService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bai17/service/Impl/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bai17/service/Impl/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Bai17/service/Impl/ItemService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Bai17/service/Impl/ItemService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,7 +31,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BTVN_Bai17_Hoangnv2.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-60">
+              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -20,6 +50,9 @@
         <option value="AnnotationType" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -46,75 +79,24 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="656" />
+    <option name="width" value="713" />
+    <option name="height" value="718" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="BTVN_Bai17_Hoangnv2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BTVN_Bai17_Hoangnv2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BTVN_Bai17_Hoangnv2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BTVN_Bai17_Hoangnv2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BTVN_Bai17_Hoangnv2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BTVN_Bai17_Hoangnv2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BTVN_Bai17_Hoangnv2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BTVN_Bai17_Hoangnv2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BTVN_Bai17_Hoangnv2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BTVN_Bai17_Hoangnv2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Bai17" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BTVN_Bai17_Hoangnv2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BTVN_Bai17_Hoangnv2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Bai17" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BTVN_Bai17_Hoangnv2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BTVN_Bai17_Hoangnv2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555692762260" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/BTVN_TOPICA_AnhQHT/BTVN_TOPICA_AnhQHT/BTVN_Bai17_AnhQHT_HuyNQ12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../.." />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -151,8 +133,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -212,13 +195,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/ORM.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Bai17/entity/Data.java" />
     <entry file="file://$PROJECT_DIR$/BTVN.iml" />
-    <entry file="file://$PROJECT_DIR$/BTVN_Bai17_Hoangnv2.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -330,6 +306,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai17_Hoangnv2.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
