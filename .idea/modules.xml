@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BTVN.iml" filepath="$PROJECT_DIR$/.idea/BTVN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTVN_Bai17_Hoangnv2/BTVN_Bai17_Hoangnv2.iml" filepath="$PROJECT_DIR$/BTVN_Bai17_Hoangnv2/BTVN_Bai17_Hoangnv2.iml" />
     </modules>
   </component>
 </project>

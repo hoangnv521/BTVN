@@ -1,10 +1,14 @@
 package Bai17.service.Impl;
 
-import com.topica.vn.entity.Category;
-import com.topica.vn.entity.Type;
-import com.topica.vn.repository.CategoryRepository;
-import com.topica.vn.repository.TypeRepository;
-import com.topica.vn.service.ICategoryService;
+import Bai17.entity.Category;
+import Bai17.repository.CategoryRepository;
+import Bai17.repository.TypeRepository;
+import Bai17.service.ICategoryService;
+
+import Bai17.entity.Type;
+
+
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

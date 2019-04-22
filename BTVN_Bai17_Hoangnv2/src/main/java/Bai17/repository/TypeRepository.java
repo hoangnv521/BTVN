@@ -1,6 +1,6 @@
 package Bai17.repository;
 
-import com.topica.vn.entity.Type;
+import Bai17.entity.Type;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface TypeRepository extends JpaRepository<Type, Long> {

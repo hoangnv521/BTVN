@@ -1,9 +1,11 @@
 package Bai17;
 
-import com.topica.vn.entity.Category;
-import com.topica.vn.entity.Item;
-import com.topica.vn.service.ICategoryService;
-import com.topica.vn.service.IItemService;
+import Bai17.entity.Category;
+import Bai17.entity.Item;
+import Bai17.service.ICategoryService;
+import Bai17.service.IItemService;
+
+import javafx.application.Application;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

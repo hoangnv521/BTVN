@@ -1,6 +1,6 @@
 package Bai17.repository;
 
-import com.topica.vn.entity.Category;
+import Bai17.entity.Category;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
